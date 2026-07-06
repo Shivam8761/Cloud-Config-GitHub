@@ -1,0 +1,16 @@
+server:
+  port: 6003
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5433/restaurantDb
+
+  jpa:
+    show-sql: false
+    hibernate:
+      ddl-auto: validate
+
+info:
+  app:
+    name: "PROD-ENV"
+    description: "Restaurant Service Production Environment"

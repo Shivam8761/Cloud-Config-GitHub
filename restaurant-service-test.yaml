@@ -1,0 +1,16 @@
+server:
+  port: 6002
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5433/restaurantDb
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+info:
+  app:
+    name: "TEST-ENV"
+    description: "Restaurant Service Testing Environment"

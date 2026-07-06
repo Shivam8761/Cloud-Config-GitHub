@@ -1,0 +1,7 @@
+server:
+  port: 7001
+
+info:
+  app:
+    name: "Test-Env"
+    description: "This is Food Service Test environment"

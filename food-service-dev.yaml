@@ -1,0 +1,7 @@
+server:
+  port: 6999
+
+info:
+  app:
+    name: "Dev-Env"
+    description: "This is Food Service devlopment environment"
