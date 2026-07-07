@@ -13,4 +13,4 @@ spring:
 info:
   app:
     name: "PROD-ENV"
-    description: "Restaurant Service Production Environment"
+    description: "Restaurant Service Production Environment -> Sv Company"
